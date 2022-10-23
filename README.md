@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[buraya tıkla] [linkedin]
-
-[linkedin] : www.linkedin.com/in/abdülbaki-demir-55558223a
+<br/>
