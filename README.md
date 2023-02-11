@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ***cyber security***🔒.
 - 💬 You can ask me about ***C***, ***Python*** , ***HTML***, ***CSS***, ***Javascript***. 
 
-- 🥅 2022 Goals: improve myself more in ***web development*** and learn ***cyber security***
+- 🥅 2023 Goals: improve myself more in ***web development*** and learn ***cyber security***
 - ⚡ Fun fact: I love to ***take a photo*** 📸, ***using photoshop*** 🖼️, ***play football*** ⚽ and ***write code*** 🧑‍💻
 <hr/>
 <br/>
