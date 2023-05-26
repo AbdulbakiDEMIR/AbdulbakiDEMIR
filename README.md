@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning ***Python***, ***Java***.
 - 👯 I’m looking to collaborate on ***software***.
 - 🤔 I’m looking for help with ***cyber security***🔒.
-- 💬 You can ask me about ***C***, ***Python*** , ***HTML***, ***CSS***, ***Javascript***. 
+- 🌐 I think you should check out my [website](https://abdulbakidemir.com).
+- 💬 You can ask me about ***C***, ***Python***, ***Java*** , ***HTML***, ***CSS***, ***Javascript***. 
 
 - 🥅 2023 Goals: improve myself more in ***web development*** and learn ***cyber security***
 - ⚡ Fun fact: I love to ***take a photo*** 📸, ***using photoshop*** 🖼️, ***play football*** ⚽ and ***write code*** 🧑‍💻
@@ -18,7 +19,6 @@
 
 I'm studying at Marmara University 🧑‍🎓 and work as a freeLancer 🆓.
 
-I think you should check out my [website](https://abdulbakidemir.com)
 
 
 
