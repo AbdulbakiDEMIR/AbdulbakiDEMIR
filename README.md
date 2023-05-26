@@ -18,7 +18,7 @@
 
 I'm studying at Marmara University 🧑‍🎓 and work as a freeLancer 🆓.
 
-I think you should check out my website: https://abdulbakidemir.com
+I think you should check out my [website](https://abdulbakidemir.com)
 
 
 
