@@ -18,6 +18,10 @@
 
 I'm studying at Marmara University 🧑‍🎓 and work as a freeLancer 🆓.
 
+I think you should check out my website: https://abdulbakidemir.com
+
+
+
 ### 📩 Connect with me
 [<img align="left" alt="linkedin" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
