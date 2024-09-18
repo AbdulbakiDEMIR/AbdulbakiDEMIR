@@ -19,7 +19,7 @@ I'm studying at Marmara University 🧑‍🎓.
 
 
 ### 📩 Connect with me
-[<img align="left" alt="linkedin" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" />][linkedin]
 [<img align="left" alt="instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 [<img align="left" alt="instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
