@@ -1,4 +1,4 @@
-## I'am a student 📕
+## I'am a computer engineer 📕
 <br>
 
 - 🔭 I’m currently busy improving myself.
