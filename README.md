@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently busy improving myself.
 - 👯 I’m looking to collaborate on ***software***.
-- 🌐 I think you should check out my [website](https://abdulbakidemir.com).
+- 🌐 I think you should check out my [website](https://abdulbakidemir.com.tr).
 - 💬 You can ask me about ***C***, ***Python***, ***Java*** , ***HTML***, ***CSS***, ***Javascript***, ***PHP***. 
 - ⚡ Fun fact: I love to ***take a photo*** 📸, ***using photoshop*** 🖼️, ***play football*** ⚽ and ***write code*** 🧑‍💻
 <hr/>
@@ -29,6 +29,6 @@ I'm studying at Marmara University 🧑‍🎓.
 
 
 
-[linkedin]: https://www.linkedin.com/in/abdülbaki-demir-55558223a
+[linkedin]: https://www.linkedin.com/in/abdulbaki-demir
 [gmail]: mailto:bakidemir6525@gmail.com
 [instagram]: https://www.instagram.com/abdulbaki692
